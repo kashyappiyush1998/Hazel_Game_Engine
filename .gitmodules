@@ -1,3 +1,6 @@
 [submodule "Hazel/vendors/spdlog"]
 	path = Hazel/vendors/spdlog
 	url = https://github.com/gabime/spdlog.git
+[submodule "Hazel/vendors/glfw"]
+	path = Hazel/vendors/glfw
+	url = https://github.com/kashyappiyush1998/Hazel_Game_Engine.git
