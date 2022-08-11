@@ -1,4 +1,5 @@
 #pragma once
+#include "hzpch.h"
 
 #ifdef HZ_PLATFORM_WINDOWS
 #ifdef HZ_BUILD_DLL
@@ -9,3 +10,5 @@
 #else
 #error Hazel Only support Windows!
 #endif
+
+#define BIT(x) (1 << x)
